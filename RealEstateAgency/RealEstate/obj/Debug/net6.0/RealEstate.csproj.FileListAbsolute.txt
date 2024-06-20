@@ -1,0 +1,15 @@
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/bin/Debug/net6.0/RealEstate
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/bin/Debug/net6.0/RealEstate.deps.json
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/bin/Debug/net6.0/RealEstate.runtimeconfig.json
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/bin/Debug/net6.0/RealEstate.dll
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/bin/Debug/net6.0/RealEstate.pdb
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.AssemblyInfoInputs.cache
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.AssemblyInfo.cs
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.csproj.CoreCompileInputs.cache
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.sourcelink.json
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.dll
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/refint/RealEstate.dll
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.pdb
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/RealEstate.genruntimeconfig.cache
+/Users/matezalantoth/RiderProjects/RealEstateAgency/RealEstateAgency/RealEstate/obj/Debug/net6.0/ref/RealEstate.dll
